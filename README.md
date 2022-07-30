@@ -41,4 +41,4 @@ The project is bulit using Reactjs and it works as a job finder app which helps 
  
  ## Screenshots :
  
- <img src="./src/assets/images/1.png" alt="landing-page">
+ <img src="./public/1.png" alt="landing-page">
