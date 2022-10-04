@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">⚡️ Github Username Search App</h2>
+    <h2 align="center">⚡️ Github Username Searcher App</h2>
 </p>
 
 ## About The Project :
