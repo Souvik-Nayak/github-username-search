@@ -4,7 +4,7 @@
 
 ## About The Project :
 
-A simple github username searcher app using Github api based on NEXTjs.
+A simple github username searcher app using Github api based on NEXTjs and Reactjs.
 
 ## Tech Stack :
 
